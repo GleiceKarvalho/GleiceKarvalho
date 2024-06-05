@@ -1,4 +1,4 @@
-### Olá! Eu sou a Gleice Carvalho 👋
+### Olá! Eu sou Gleice Carvalho 👋
 
 - 👩‍🏫 Atualmente estou trabalhando como Diretora Pedagógica de uma Autoescola.
 - 📚 Estou fazendo cursos de HTML, CSS e JavaScrip.
