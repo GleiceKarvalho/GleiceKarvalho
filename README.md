@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gleice Carvalho 👋
 
 - 👩‍🏫 Minha ultima experiencia de trabalho foi como Diretora Pedagógica de uma Autoescola.
-- 📚 Estou fazendo cursos de HTML, CSS e JavaScrip.
+- 📚 Atualmente estou estudando HTML, CSS e JavaScrip.
 - 👩‍🎓 Faço faculdade de Analise e Desenvolvimento de Sistemas.
 - 🤔 Estou procurando migrar de carreira para isso preciso de um estagio na área. 
 - ⚡ Curiosidade: Gosto de criar soluções assertivas para problemas e desafios.
